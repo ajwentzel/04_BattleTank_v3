@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.16",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BattleTank_v3",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
